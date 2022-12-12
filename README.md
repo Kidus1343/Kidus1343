@@ -1,5 +1,6 @@
-Hi 👋 My name is Kid
-Software Engineer
+Hi 👋 My name is Kid 
+
+# Software Engineer
 🌍  I'm based in Addis
 
 ### Skills
