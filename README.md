@@ -1,10 +1,6 @@
-Hi 👋 My name is Kid 
+Hi 👋 My name is Kidus
 
 # Software Engineer
-🌍  I'm based in Addis
-
-### Skills
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kidusmessele1343) 
